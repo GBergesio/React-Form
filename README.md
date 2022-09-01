@@ -41,9 +41,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More!
 
-[image](https://user-images.githubusercontent.com/91171763/187933430-598f1808-2c37-41cc-9527-ab14bcb32891.png)
-
-
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
